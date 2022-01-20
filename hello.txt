@@ -10,3 +10,9 @@ hello git!
 hello git!
 hello git! 	conflict test
 hello git!	hot-fix test
+hello git!
+hello git!
+hello git!
+hello git!
+hello git!
+hello git!	cold-fix
